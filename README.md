@@ -1,16 +1,35 @@
-### Hi there 👋
+<p align="left"> 
+ 🖖 Olá, meu nome é Matheus Vieira. Sou <strong>Back-end developer</strong> e <strong>Front-end developer</strong>.
+</p>
 
-<!--
-**Matheus-Fontinele-Alves-Vieria/Matheus-Fontinele-alves-Vieria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+ ☕ Habilidades: <strong>HTML, CSS, JavaScript, ReactJS, NodeJS, SQL e Python.</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  💼 Ferramentas: <strong>VS Code, Figma, Git e GitHub.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/matheus-vieira-936bbb162/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF"/>
+  </a>
+  
+  <a href = "matheusfont.123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+</p>
+
+<br>
+
+<div>
+  <a href="https://github.com/Matheus-Fontinele-Alves-Vieria">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Fontinele-Alves-Vieria&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Fontinele-Alves- Vieria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+ ![Snake animation](https://github.com/Matheus-Fontinele-Alves-Vieria/Matheus-Fontinele-Alves-Vieria/blob/output/github-contribution-grid-snake.svg)
