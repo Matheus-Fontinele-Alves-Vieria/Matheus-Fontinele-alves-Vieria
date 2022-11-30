@@ -14,8 +14,8 @@
 
 <p align="left">
   📚 Estudando Inteligência Artificial...
-  <label for="file">Downloading progress:</label>
-  <progress id="file" value="32" max="100"> 32% </progress>
+  <label for="file">Progresso:</label>
+  <progress id="file" value="32" max="100">[ 32% ]</progress>
 </p>
 
 
