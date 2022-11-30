@@ -10,6 +10,13 @@
   💼 Ferramentas: <strong>VS Code, Figma, Git, GitHub, GitLab e Bitbucket.</strong>
 </p>
 
+<br>
+
+<p align="left">
+  📚 Estudando Inteligência Artificial...
+  [=45% "45%"]
+</p>
+
 
 <br>
 
