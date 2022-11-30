@@ -14,7 +14,8 @@
 
 <p align="left">
   📚 Estudando Inteligência Artificial...
-  [=45% "45%"]
+  <br>
+  <progress value=”32" max=”100"></progress>
 </p>
 
 
