@@ -15,7 +15,7 @@
 <p align="left">
   📚 Estudando Inteligência Artificial...
   <br>
-  <progress value=”32" max=”100"></progress>
+  Barra de progresso <progress value=”32" max=”100"></progress>
 </p>
 
 
