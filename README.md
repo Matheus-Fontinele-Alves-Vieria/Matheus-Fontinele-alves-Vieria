@@ -17,10 +17,6 @@
   <a href="https://www.linkedin.com/in/matheus-vieira-936bbb162/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF"/>
   </a>
-  
-  <a href = "matheusfont.123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 
 </p>
 
