@@ -3,11 +3,11 @@
 </p>
 
 <p align="left">
- ☕ Habilidades: <strong>HTML, CSS, JavaScript, ReactJS, NodeJS, SQL e Python.</strong>
+ ☕ Habilidades: <strong>HTML, CSS, JavaScript, ReactJS, React Native, NodeJS, SQL e Python.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Figma, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>VS Code, Figma, Git, GitHub, GitLab e Bitbucket.</strong>
 </p>
 
 
