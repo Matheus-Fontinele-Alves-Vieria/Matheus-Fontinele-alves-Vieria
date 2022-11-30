@@ -15,9 +15,7 @@
 <p align="left">
   📚 Estudando Inteligência Artificial...
   <label for="file">Progresso:</label>
-  <div class="progress">
-    <div class="progress-bar" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-  </div>
+  [========----------------------]  28%
 </p>
 
 
