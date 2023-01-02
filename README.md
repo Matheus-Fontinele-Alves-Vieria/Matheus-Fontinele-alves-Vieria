@@ -15,7 +15,7 @@
 <p align="left">
   📚 Estudando Inteligência Artificial...
   <label for="file">Progresso:</label>
-  [=================---------------------]  47%
+  [==============------------------------]  47%
 </p>
 
 
