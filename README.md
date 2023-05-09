@@ -12,7 +12,7 @@
 
 <br>
 
-<h1 align="center">Olá 👏🏽, me chamo Matheus Vieira!</h1>
+<h1 align="center">Olá, me chamo Matheus Vieira!</h1>
 <h3 align="center">Junior Data Scientist | Software Developer | Node.js | React.js | Python</h3>
 
 <br>
