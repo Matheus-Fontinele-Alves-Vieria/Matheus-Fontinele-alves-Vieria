@@ -56,28 +56,3 @@
 <br>
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Matheus-Fontinele-Alves-Vieria&theme=tokyo-night&hide_border=true&area=true" />
-  
-<br>
-
-<table>
-    <tr align="center">
-        <td>
-        <a href="https://github.com/Matheus-Fontinele-Alves-Vieria"><img src="https://github-readme-stats.vercel.app/api?username=Matheus-Fontinele-Alves-Vieria&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        </a>
-        </td>
-        <td>
-        <a href="https://github.com/Matheus-Fontinele-Alves-Vieria"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Fontinele-Alves-Vieria&theme=tokyonight&layout=compact" />
-        </a>
-        </td>
-        <td>        
-        <a href="https://github.com/Matheus-Fontinele-Alves-Vieria">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Fontinele-Alves-Vieria&theme=tokyonight" />
-        </a>
-        </td>
-    </tr>
-    <tr align="center">
-        <td colspan="3">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Matheus-Fontinele-Alves-Vieria&theme=tokyonight&layout=compact" />
-        </td>
-    </tr>
-</table>
