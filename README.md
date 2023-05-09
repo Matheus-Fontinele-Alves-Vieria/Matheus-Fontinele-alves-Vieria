@@ -81,9 +81,3 @@
         </td>
     </tr>
 </table>
-
-<br>
-
-<p align="center">
-  <img src="https://github.com/Matheus-Fontinele-Alves-Vieria/Matheus-Fontinele-Alves-Vieria/blob/output/github-user-contribution.svg" />
-</p>
