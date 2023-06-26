@@ -75,4 +75,4 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Matheus-Fontinele-Alves-Vieria&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Matheus-Fontinele-Alves-Vieria/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Matheus-Fontinele-Alves-Vieria&theme=tokyo-night&hide_border=true&area=true&hide_border=true)](https://github.com/Matheus-Fontinele-Alves-Vieria/github-readme-activity-graph)
