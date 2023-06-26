@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/-Github-6633cc?style=flat-square&logo=github&logoColor=3f72af&color=112d4e&link=https://www.github.com/Matheus-Fontinele-Alves-Vieria/" alt="Matheus's Github" />
   </a> &nbsp;&nbsp;
   <a target="_blank" href="https://matheusvieira.onrender.com/">
-    <img src="https://img.shields.io/badge/:badgeContent?style=style%3Dflat-square%26logo%3Dgithub%26logoColor%3D3f72af%26color%3D112d4e&link=https%3A%2F%2Fmatheusvieira.onrender.com%2F" alt="Matheus's website" />
+    <img src="https://img.shields.io/weblate/:type?link=https%3A%2F%2Fmatheusvieira.onrender.com%2F" alt="Matheus's website" />
   </a>
 </p>
 
