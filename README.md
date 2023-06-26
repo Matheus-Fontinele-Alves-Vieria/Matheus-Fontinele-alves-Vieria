@@ -75,4 +75,4 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?Matheus-Fontinele-Alves-Vieria=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Matheus-Fontinele-Alves-Vieria&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/Matheus-Fontinele-Alves-Vieria/github-readme-activity-graph)
