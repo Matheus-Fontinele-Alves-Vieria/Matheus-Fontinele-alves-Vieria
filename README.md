@@ -1,7 +1,3 @@
-<img src="https://github.com/Matheus-Fontinele-Alves-Vieria/Matheus-Fontinele-Alves-Vieria/blob/main/.github/workflows/banner.png?raw=true" alt="Matheus-Fontinele-Alves-Vieria" />
-
-<br>
-
 <p align="center">
     <a href="https://github.com/Matheus-Fontinele-Alves-Vieria/Matheus-Fontinele-Alves-Vieria"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/Matheus-Fontinele-Alves-Vieria/Matheus-Fontinele-Alves-Vieria/graphs/contributors"><img src="https://img.shields.io/github/contributors/Matheus-Fontinele-Alves-Vieria/Matheus-Fontinele-Alves-Vieria?color=blue"></a>
