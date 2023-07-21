@@ -25,7 +25,7 @@
 <br>
 
 <div align="center"> 
-  <p><b>Profile Views</b></p>
+  <p><b>Visualizacões de perfil</b></p>
   <img src="https://profile-counter.glitch.me/Matheus-Fontinele-Alves-Vieria/count.svg" />
 </div>
 
