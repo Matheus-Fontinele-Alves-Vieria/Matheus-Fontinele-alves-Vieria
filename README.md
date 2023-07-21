@@ -79,9 +79,20 @@
 <br>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Fontinele-Alves-Vieria&theme=tokyo-night&langs_count=10&card_width=540" alt="Idiomas mais usados">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Fontinele-Alves-Vieria&theme=radical&langs_count=10&card_width=540" alt="Idiomas mais usados">
 
 </div>
+
+<br>
+
+### Projetos
+
+  <a href="https://github.com/Matheus-Fontinele-Alves-Vieria/JavaProjects-DIO" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Fontinele-Alves-Vieria&theme=radical&repo=JavaProjects-DIO" width="49%" alt="Projetos em Java do curso Formação Java Developer da DIO - Digital Innovation One"/>
+  </a>
+  <a href="https://github.com/Matheus-Fontinele-Alves-Vieria/bank-account" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Fontinele-Alves-Vieria&theme=radical&repo=bank-account" width="49%" alt="Simulando Uma Conta Bancária Através Do Terminal"/>
+  </a>
 
 <br>
 
