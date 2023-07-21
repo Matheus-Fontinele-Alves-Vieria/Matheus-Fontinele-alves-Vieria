@@ -79,7 +79,8 @@
 <br>
 
 <center>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Fontinele-Alves-Vieria)](https://github.com/Matheus-Fontinele-Alves-Vieria/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Fontinele-Alves-Vieria)](https://github.com/Matheus-Fontinele-Alves-Vieria/github-readme-stats)
     
 </center>
 
