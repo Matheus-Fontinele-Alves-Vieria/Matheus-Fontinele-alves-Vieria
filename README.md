@@ -93,6 +93,18 @@
   <a href="https://github.com/Matheus-Fontinele-Alves-Vieria/bank-account" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Fontinele-Alves-Vieria&theme=radical&repo=bank-account" width="49%" alt="Simulando Uma Conta Bancária Através Do Terminal"/>
   </a>
+  <a href="https://github.com/Matheus-Fontinele-Alves-Vieria/flow-control-challenge" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Fontinele-Alves-Vieria&theme=radical&repo=flow-control-challenge" width="49%" alt=""/>
+  </a>
+  <a href="https://github.com/Matheus-Fontinele-Alves-Vieria/iPhone" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Fontinele-Alves-Vieria&theme=radical&repo=iPhone" width="49%" alt=""/>
+  </a>
+  <a href="https://github.com/Matheus-Fontinele-Alves-Vieria/digital-bank" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Fontinele-Alves-Vieria&theme=radical&repo=digital-bank" width="49%" alt=""/>
+  </a>
+  <a href="https://github.com/Matheus-Fontinele-Alves-Vieria/Artificial-Intelligence" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Fontinele-Alves-Vieria&theme=radical&repo=Artificial-Intelligence" width="49%" alt=""/>
+  </a>
 
 <br>
 
