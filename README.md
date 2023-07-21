@@ -79,10 +79,7 @@
 <br>
 
 <div align="center">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Fontinele-Alves-Vieria)](https://github.com/Matheus-Fontinele-Alves-Vieria/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Fontinele-Alves-Vieria&theme=radical&langs_count=10&card_width=540" alt="Idiomas mais usados">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Fontinele-Alves-Vieria&theme=radical&langs_count=10&card_width=540" alt="Idiomas mais usados">
 
 </div>
 
