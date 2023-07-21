@@ -24,6 +24,13 @@
 
 <br>
 
+<div align="center"> 
+  <p><b>Profile Views</b></p>
+  <img src="https://profile-counter.glitch.me/Matheus-Fontinele-Alves-Vieria/count.svg" />
+</div>
+
+<br>
+
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=Matheus-Fontinele-Alves-Vieria&theme=tokyonight" alt="Matheus-Fontinele-Alves-Vieria" />
 </p>
