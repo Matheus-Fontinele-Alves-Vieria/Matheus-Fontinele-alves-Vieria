@@ -79,7 +79,7 @@
 <br>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Fontinele-Alves-Vieria&theme=tokyo&langs_count=10&card_width=540" alt="Idiomas mais usados">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Fontinele-Alves-Vieria&theme=tokyo-night&langs_count=10&card_width=540" alt="Idiomas mais usados">
 
 </div>
 
