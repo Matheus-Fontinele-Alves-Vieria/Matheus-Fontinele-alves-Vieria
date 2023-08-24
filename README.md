@@ -103,7 +103,7 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Fontinele-Alves-Vieria&theme=radical&repo=digital-bank" width="49%" alt=""/>
   </a>
   <a href="https://github.com/Matheus-Fontinele-Alves-Vieria/bootcamp-system" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Fontinele-Alves-Vieria&theme=radical&repo=bootcamp-system" width="49%" alt=" O "Bootcamp Management System" é um programa em Java que gerencia bootcamps educacionais, conectando instrutores e alunos. Oferece inscrições, acompanhamento de progresso, cálculo de XP e fácil uso, proporcionando uma experiência organizada e produtiva no contexto educacional."/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Fontinele-Alves-Vieria&theme=radical&repo=bootcamp-system" width="49%" alt="O Bootcamp System é um programa em Java que gerencia bootcamps educacionais, conectando instrutores e alunos. Oferece inscrições, acompanhamento de progresso, cálculo de XP e fácil uso, proporcionando uma experiência organizada e produtiva no contexto educacional."/>
   </a>
   <a href="https://github.com/Matheus-Fontinele-Alves-Vieria/Artificial-Intelligence" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Fontinele-Alves-Vieria&theme=radical&repo=Artificial-Intelligence" width="49%" alt=""/>
