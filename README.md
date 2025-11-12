@@ -43,24 +43,15 @@
 
 <div align="center">
 
+### ☁️ Cloud & Infrastructure
+
 <table>
 <tr>
 <td align="center" width="96">
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="48" height="48"/>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="48" height="48"/>
 </a>
-<br>Django
-</td>
-<td align="center" width="96">
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="48" height="48"/>
-</a>
-<br>Firebase
-<td align="center" width="96">
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="48" height="48"/>
-</a>
-<br>Flask
+<br>Azure
 </td>
 <td align="center" width="96">
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
@@ -69,42 +60,60 @@
 <br>GCP
 </td>
 <td align="center" width="96">
-<a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="48" height="48"/>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="48" height="48"/>
 </a>
-<br>Ionic
+<br>Docker
 </td>
-<td align="center" width="96">
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/>
-</a>
-<br>Java
-</td>
-</tr>
-<tr>
 <td align="center" width="96">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="48" height="48"/>
 </a>
 <br>Linux
 </td>
+</tr>
+</table>
+
+### 📊 Microsoft Power Platform & BI
+
+<table>
+<tr>
 <td align="center" width="96">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="power-bi" width="48" height="48"/>
 </a>
-<br>MySQL
+<br>Power BI
 </td>
 <td align="center" width="96">
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/>
+<a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/fluency/48/000000/microsoft.png" alt="microsoft-fabric" width="48" height="48"/>
 </a>
-<br>OpenCV
+<br>MS Fabric
 </td>
 <td align="center" width="96">
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/>
+<a href="https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/fluency/48/000000/chatbot.png" alt="copilot-studio" width="48" height="48"/>
 </a>
-<br>Python
+<br>Copilot Studio
+</td>
+</tr>
+</table>
+
+### 🤖 Azure AI & ML
+
+<table>
+<tr>
+<td align="center" width="96">
+<a href="https://azure.microsoft.com/en-us/products/ai-services" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure-ai" width="48" height="48"/>
+</a>
+<br>Azure AI
+</td>
+<td align="center" width="96">
+<a href="https://ai.azure.com/" target="_blank" rel="noreferrer">
+<img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="azure-foundry" width="48" height="48"/>
+</a>
+<br>Azure Foundry
 </td>
 <td align="center" width="96">
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
@@ -113,13 +122,61 @@
 <br>PyTorch
 </td>
 <td align="center" width="96">
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="48" height="48"/>
+</a>
+<br>TensorFlow
+</td>
+<td align="center" width="96">
+<a href="https://opencv.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/>
+</a>
+<br>OpenCV
+</td>
+</tr>
+</table>
+
+### 🐍 Python & Frameworks
+
+<table>
+<tr>
+<td align="center" width="96">
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/>
+</a>
+<br>Python
+</td>
+<td align="center" width="96">
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="48" height="48"/>
+</a>
+<br>FastAPI
+</td>
+<td align="center" width="96">
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="48" height="48"/>
+</a>
+<br>Django
+</td>
+<td align="center" width="96">
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="48" height="48"/>
+</a>
+<br>Flask
+</td>
+</tr>
+</table>
+
+### 📊 Data Science & Analytics
+
+<table>
+<tr>
+<td align="center" width="96">
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="48" height="48"/>
 </a>
 <br>Pandas
 </td>
-</tr>
-<tr>
 <td align="center" width="96">
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="48" height="48"/>
@@ -132,12 +189,13 @@
 </a>
 <br>Scikit-learn
 </td>
-<td align="center" width="96">
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="48" height="48"/>
-</a>
-<br>TensorFlow
-</td>
+</tr>
+</table>
+
+### 🗄️ Databases
+
+<table>
+<tr>
 <td align="center" width="96">
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="48" height="48"/>
@@ -145,16 +203,41 @@
 <br>PostgreSQL
 </td>
 <td align="center" width="96">
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/>
+</a>
+<br>MySQL
+</td>
+<td align="center" width="96">
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="48" height="48"/>
 </a>
 <br>MongoDB
 </td>
+</tr>
+</table>
+
+### 💻 Outras Tecnologias
+
+<table>
+<tr>
 <td align="center" width="96">
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="48" height="48"/>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/>
 </a>
-<br>Docker
+<br>Java
+</td>
+<td align="center" width="96">
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="48" height="48"/>
+</a>
+<br>Firebase
+</td>
+<td align="center" width="96">
+<a href="https://ionicframework.com" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="48" height="48"/>
+</a>
+<br>Ionic
 </td>
 </tr>
 </table>
